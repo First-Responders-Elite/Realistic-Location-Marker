@@ -77,7 +77,7 @@
     dropdown.style.borderRadius = '0px';
 
     var poiTypes = [
-        { label: "First Responders Elite Markers Off V3", value: "" },
+        { label: "First Responders Elite Markers Off ", value: "" },
         { label: "Show Fire Station Locations", value: "amenity=fire_station" },
         { label: "Show Ambulance Station Locations", value: "emergency=ambulance_station" },
         { label: "Show Police Stations Locations", value: "amenity=police" },
