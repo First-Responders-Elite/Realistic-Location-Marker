@@ -43,7 +43,7 @@
 // @match        https://www.dyspetcher101-game.com/*
 // @match        https://www.hatakeskuspeli.com/*
 // @match        https://poliisi.hatakeskuspeli.com/*
-// @require      https://github.com/First-Responders-elite/osmtogeojson/raw/gh-pages/osmtogeojson.js
+// @require      https://github.com/First-Responders-Elite/osmtogeojson/raw/gh-pages/osmtogeojson.js
 // @downloadURL  https://github.com/First-Responders-Elite/Realistic-Location-Marker/blob/main/Realistic%20Location%20Marker.user.js
 // @updateURL    https://github.com/First-Responders-Elite/Realistic-Location-Marker/blob/main/Realistic%20Location%20Marker.user.js
 // @icon         
