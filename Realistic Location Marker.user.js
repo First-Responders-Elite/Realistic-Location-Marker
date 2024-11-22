@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Building Locations "Realistic Location Marker"
 // @namespace    First Responders Elite
-// @version      3.3
+// @version      5.3
 // @description  Displays Real locations in game map for players who want realism
 // @author       First Responders Elite
 // @homepage     https://github.com/First-Responders-Elite
@@ -44,8 +44,8 @@
 // @match        https://www.hatakeskuspeli.com/*
 // @match        https://poliisi.hatakeskuspeli.com/*
 // @require      https://github.com/First-Responders-elite/osmtogeojson/raw/gh-pages/osmtogeojson.js
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://github.com/First-Responders-Elite/Realistic-Location-Marker/blob/main/Realistic%20Location%20Marker.user.js
+// @updateURL    https://github.com/First-Responders-Elite/Realistic-Location-Marker/blob/main/Realistic%20Location%20Marker.user.js
 // @icon         
 // @grant        none
 // ==/UserScript==
