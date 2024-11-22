@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Building Locations "Realistic Location Marker"
 // @namespace    First Responders Elite
-// @version      5.3
+// @version      5.4
 // @description  Displays Real locations in game map for players who want realism
 // @author       First Responders Elite
 // @homepage     https://github.com/First-Responders-Elite
